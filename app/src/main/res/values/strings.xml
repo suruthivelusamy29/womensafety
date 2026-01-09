@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Emergency Safety App</string>
+    <string name="emergency_button">Emergency</string>
+    <string name="help_button">Help</string>
+    <string name="location_sent">Location sent to emergency contacts!</string>
+    <string name="location_error">Unable to get location</string>
+</resources>
